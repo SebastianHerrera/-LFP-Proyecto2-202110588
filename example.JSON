@@ -1,0 +1,6 @@
+CrearBD MiBaseDeDatos
+CrearColeccion MiColeccion
+InsertarUnico MiColeccion {
+    "nombre": "Ejemplo",
+    "edad": 30
+}
